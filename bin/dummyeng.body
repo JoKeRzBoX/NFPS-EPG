@@ -1,4 +1,4 @@
-﻿
+
 	<channel id="I12.28457628.microsoft.com">
 		<display-name>News 12 Connecticut</display-name>
 		<display-name>12 News 12 Connecticut</display-name>
@@ -82,7 +82,7 @@
 		<display-name>Cablecast</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.28459733.microsoft.com">
-		<title lang="en">News 12 Long Island - Made with NFPS EPG Grabber by psycon</title>
+		<title lang="en">News 12 Long Island</title>
 		<desc lang="en">Latest Long Island news, weather, and sports.</desc>
 		<category lang="en">News</category>
 		<category lang="en">Other</category>
@@ -101,7 +101,7 @@
 		<display-name>Cablecast</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.42874367.microsoft.com">
-		<title lang="en">News 12 Brooklyn - Come to iptvtalk.org for support</title>
+		<title lang="en">News 12 Brooklyn</title>
 		<desc lang="en">Latest Brooklyn news, weather, and sports.</desc>
 		<category lang="en">News</category>
 		<category lang="en">Other</category>
@@ -120,7 +120,7 @@
 		<display-name>Cablecast</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.28456274.microsoft.com">
-		<title lang="en">News 12 The Bronx - Thanks to Dara for Keeping Channels up to date and all others who help.</title>
+		<title lang="en">News 12 The Bronx</title>
 		<desc lang="en">Latest Bronx news, weather, and sports.</desc>
 		<category lang="en">News</category>
 		<category lang="en">Other</category>
@@ -653,7 +653,7 @@
 		<display-name>Music Videos 13</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_13.iptvprivateserver.tv">
-		<title lang="en">ClubLano</title>
+		<title lang="en">ClubLand TV</title>
 		<desc lang="en">Music Videos 13</desc>
 		<category lang="en">Music</category>
 	</programme>
@@ -809,6 +809,7 @@
 		<desc lang="en">Sport 1</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_2.iptvprivateserver.tv">
 		<display-name>Sport 2</display-name>
 	</channel>
@@ -817,6 +818,7 @@
 		<desc lang="en">Sport 2</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_3.iptvprivateserver.tv">
 		<display-name>Sport 3</display-name>
 	</channel>
@@ -825,6 +827,7 @@
 		<desc lang="en">Sport 3</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_4.iptvprivateserver.tv">
 		<display-name>Sport 4</display-name>
 	</channel>
@@ -833,6 +836,7 @@
 		<desc lang="en">Sport 4</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_5.iptvprivateserver.tv">
 		<display-name>Sport 5</display-name>
 	</channel>
@@ -841,6 +845,7 @@
 		<desc lang="en">Sport 5</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_6.iptvprivateserver.tv">
 		<display-name>Sport 6</display-name>
 	</channel>
@@ -849,6 +854,7 @@
 		<desc lang="en">Sport 6</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_7.iptvprivateserver.tv">
 		<display-name>Sport 7</display-name>
 	</channel>
@@ -857,6 +863,7 @@
 		<desc lang="en">Sport 7</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_8.iptvprivateserver.tv">
 		<display-name>Sport 8</display-name>
 	</channel>
@@ -865,6 +872,7 @@
 		<desc lang="en">Sport 8</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_9.iptvprivateserver.tv">
 		<display-name>Sport 9</display-name>
 	</channel>
@@ -873,6 +881,7 @@
 		<desc lang="en">Sport 9</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_10.iptvprivateserver.tv">
 		<display-name>Sport 10</display-name>
 	</channel>
@@ -881,6 +890,7 @@
 		<desc lang="en">Sport 10</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_11.iptvprivateserver.tv">
 		<display-name>Sport 11</display-name>
 	</channel>
@@ -889,6 +899,7 @@
 		<desc lang="en">Sport 11</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_12.iptvprivateserver.tv">
 		<display-name>Sport 12</display-name>
 	</channel>
@@ -897,14 +908,16 @@
 		<desc lang="en">Sport 12</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_13.iptvprivateserver.tv">
 		<display-name>Sport 13</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_13.iptvprivateserver.tv">
-		<title lang="en">NTV Plus Futbol 1</title>
+		<title lang="en">Ten Sports (India)</title>
 		<desc lang="en">Sport 13</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_14.iptvprivateserver.tv">
 		<display-name>Sport 14</display-name>
 	</channel>
@@ -913,6 +926,7 @@
 		<desc lang="en">Sport 14</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_15.iptvprivateserver.tv">
 		<display-name>Sport 15</display-name>
 	</channel>
@@ -921,6 +935,7 @@
 		<desc lang="en">Sport 15</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_16.iptvprivateserver.tv">
 		<display-name>Sport 16</display-name>
 	</channel>
@@ -929,6 +944,7 @@
 		<desc lang="en">Sport 16</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_17.iptvprivateserver.tv">
 		<display-name>Sport 17</display-name>
 	</channel>
@@ -937,14 +953,16 @@
 		<desc lang="en">Sport 17</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_18.iptvprivateserver.tv">
 		<display-name>Sport 18</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_18.iptvprivateserver.tv">
-		<title lang="en">Sony Six (India)</title>
+		<title lang="en">Star Sports (India)</title>
 		<desc lang="en">Sport 18</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_19.iptvprivateserver.tv">
 		<display-name>Sport 19</display-name>
 	</channel>
@@ -953,11 +971,12 @@
 		<desc lang="en">Sport 19</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_20.iptvprivateserver.tv">
 		<display-name>Sport 20</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_20.iptvprivateserver.tv">
-		<title lang="en">Fox Sports 506 HD (Australia)</title>
+		<title lang="en">Motor/Sport</title>
 		<desc lang="en">Sport 20</desc>
 		<category lang="en">Sports</category>
 	</programme>
@@ -1218,21 +1237,21 @@
 		<category lang="en">Dummy</category>
 	</programme>
 
-	<channel id="Dummy_2.iptvprivateserver.tv">
-		<display-name>Dummy 2</display-name>
+	<channel id="RT Documentary">
+		<display-name>RT Documentary</display-name>
 	</channel>
-	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Dummy_2.iptvprivateserver.tv">
-		<title lang="en">Dummy 2</title>
-		<desc lang="en">Dummy 2</desc>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="RT Documentary">
+		<title lang="en">RT Documentary</title>
+		<desc lang="en">RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.(n)</desc>
 		<category lang="en">Dummy</category>
 	</programme>
 
-	<channel id="Dummy_3.iptvprivateserver.tv">
-		<display-name>Dummy 3</display-name>
+	<channel id="TVE24h.iptvprivateserver.tv">
+		<display-name>TVE 24h</display-name>
 	</channel>
-	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Dummy_3.iptvprivateserver.tv">
-		<title lang="en">Dummy 3</title>
-		<desc lang="en">Dummy 3</desc>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="TVE24h.iptvprivateserver.tv">
+		<title lang="en">TVE 24h</title>
+		<desc lang="en">TVE 24h</desc>
 		<category lang="en">Dummy</category>
 	</programme>
 

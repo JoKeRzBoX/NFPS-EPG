@@ -6,10 +6,10 @@
   <channel time_error="-1">True Movies 2</channel>  
   <channel time_error="-1">BOXnation</channel>
   <channel time_error="-1">SKY Sports 5</channel>
-  <channel time_error="-32">ASTRO SuperSport</channel>
-  <channel time_error="-32">ASTRO SuperSport 2</channel>
-  <channel time_error="-32">ASTRO SuperSport 3</channel>
-  <channel time_error="-24">RT Documentary</channel>
+  <channel time_error="-16">ASTRO SuperSport</channel>
+  <channel time_error="-16">ASTRO SuperSport 2</channel>
+  <channel time_error="-16">ASTRO SuperSport 3</channel>
+  <channel time_error="-12">RT Documentary</channel>
 <!--  <channel time_error="-10">ABC News 24</channel>
   <channel time_error="-5.5">Star Sports 1</channel>
   <channel time_error="-5.5">Star Sports 2</channel>  -->

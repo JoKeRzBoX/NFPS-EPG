@@ -1,4 +1,4 @@
-﻿
+
 	<channel id="I12.28457628.microsoft.com">
 		<display-name>News 12 Connecticut</display-name>
 		<display-name>12 News 12 Connecticut</display-name>
@@ -82,7 +82,7 @@
 		<display-name>Cablecast</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.28459733.microsoft.com">
-		<title lang="en">News 12 Long Island - Made with NFPS EPG Grabber by psycon</title>
+		<title lang="en">News 12 Long Island</title>
 		<desc lang="en">Latest Long Island news, weather, and sports.</desc>
 		<category lang="en">News</category>
 		<category lang="en">Other</category>
@@ -101,7 +101,7 @@
 		<display-name>Cablecast</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.42874367.microsoft.com">
-		<title lang="en">News 12 Brooklyn - Go to iptvtalk.org for support</title>
+		<title lang="en">News 12 Brooklyn</title>
 		<desc lang="en">Latest Brooklyn news, weather, and sports.</desc>
 		<category lang="en">News</category>
 		<category lang="en">Other</category>
@@ -120,7 +120,7 @@
 		<display-name>Cablecast</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="I12.28456274.microsoft.com">
-		<title lang="en">News 12 The Bronx - Thanks To Dara for keeping channels up to date.</title>
+		<title lang="en">News 12 The Bronx</title>
 		<desc lang="en">Latest Bronx news, weather, and sports.</desc>
 		<category lang="en">News</category>
 		<category lang="en">Other</category>
@@ -653,7 +653,7 @@
 		<display-name>Music Videos 13</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Music_13.iptvprivateserver.tv">
-		<title lang="en">ClubLano</title>
+		<title lang="en">ClubLand TV</title>
 		<desc lang="en">Music Videos 13</desc>
 		<category lang="en">Music</category>
 	</programme>
@@ -809,6 +809,7 @@
 		<desc lang="en">Sport 1</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_2.iptvprivateserver.tv">
 		<display-name>Sport 2</display-name>
 	</channel>
@@ -817,6 +818,7 @@
 		<desc lang="en">Sport 2</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_3.iptvprivateserver.tv">
 		<display-name>Sport 3</display-name>
 	</channel>
@@ -825,6 +827,7 @@
 		<desc lang="en">Sport 3</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_4.iptvprivateserver.tv">
 		<display-name>Sport 4</display-name>
 	</channel>
@@ -833,6 +836,7 @@
 		<desc lang="en">Sport 4</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_5.iptvprivateserver.tv">
 		<display-name>Sport 5</display-name>
 	</channel>
@@ -841,6 +845,7 @@
 		<desc lang="en">Sport 5</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_6.iptvprivateserver.tv">
 		<display-name>Sport 6</display-name>
 	</channel>
@@ -849,6 +854,7 @@
 		<desc lang="en">Sport 6</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_7.iptvprivateserver.tv">
 		<display-name>Sport 7</display-name>
 	</channel>
@@ -857,6 +863,7 @@
 		<desc lang="en">Sport 7</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_8.iptvprivateserver.tv">
 		<display-name>Sport 8</display-name>
 	</channel>
@@ -865,6 +872,7 @@
 		<desc lang="en">Sport 8</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_9.iptvprivateserver.tv">
 		<display-name>Sport 9</display-name>
 	</channel>
@@ -873,6 +881,7 @@
 		<desc lang="en">Sport 9</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_10.iptvprivateserver.tv">
 		<display-name>Sport 10</display-name>
 	</channel>
@@ -881,6 +890,7 @@
 		<desc lang="en">Sport 10</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_11.iptvprivateserver.tv">
 		<display-name>Sport 11</display-name>
 	</channel>
@@ -889,6 +899,7 @@
 		<desc lang="en">Sport 11</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_12.iptvprivateserver.tv">
 		<display-name>Sport 12</display-name>
 	</channel>
@@ -897,14 +908,16 @@
 		<desc lang="en">Sport 12</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_13.iptvprivateserver.tv">
 		<display-name>Sport 13</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_13.iptvprivateserver.tv">
-		<title lang="en">NTV Plus Futbol 1</title>
+		<title lang="en">Ten Sports (India)</title>
 		<desc lang="en">Sport 13</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_14.iptvprivateserver.tv">
 		<display-name>Sport 14</display-name>
 	</channel>
@@ -913,6 +926,7 @@
 		<desc lang="en">Sport 14</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_15.iptvprivateserver.tv">
 		<display-name>Sport 15</display-name>
 	</channel>
@@ -921,6 +935,7 @@
 		<desc lang="en">Sport 15</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_16.iptvprivateserver.tv">
 		<display-name>Sport 16</display-name>
 	</channel>
@@ -929,6 +944,7 @@
 		<desc lang="en">Sport 16</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_17.iptvprivateserver.tv">
 		<display-name>Sport 17</display-name>
 	</channel>
@@ -937,14 +953,16 @@
 		<desc lang="en">Sport 17</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_18.iptvprivateserver.tv">
 		<display-name>Sport 18</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_18.iptvprivateserver.tv">
-		<title lang="en">Sony Six (India)</title>
+		<title lang="en">Star Sports (India)</title>
 		<desc lang="en">Sport 18</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_19.iptvprivateserver.tv">
 		<display-name>Sport 19</display-name>
 	</channel>
@@ -953,11 +971,12 @@
 		<desc lang="en">Sport 19</desc>
 		<category lang="en">Sports</category>
 	</programme>
+
 	<channel id="Sport_20.iptvprivateserver.tv">
 		<display-name>Sport 20</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Sport_20.iptvprivateserver.tv">
-		<title lang="en">Fox Sports 506 HD (Australia)</title>
+		<title lang="en">Motor/Sport</title>
 		<desc lang="en">Sport 20</desc>
 		<category lang="en">Sports</category>
 	</programme>
@@ -1218,21 +1237,21 @@
 		<category lang="en">Dummy</category>
 	</programme>
 
-	<channel id="Dummy_2.iptvprivateserver.tv">
-		<display-name>Dummy 2</display-name>
+	<channel id="RT Documentary">
+		<display-name>RT Documentary</display-name>
 	</channel>
-	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Dummy_2.iptvprivateserver.tv">
-		<title lang="en">Dummy 2</title>
-		<desc lang="en">Dummy 2</desc>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="RT Documentary">
+		<title lang="en">RT Documentary</title>
+		<desc lang="en">RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.(n)</desc>
 		<category lang="en">Dummy</category>
 	</programme>
 
-	<channel id="Dummy_3.iptvprivateserver.tv">
-		<display-name>Dummy 3</display-name>
+	<channel id="TVE24h.iptvprivateserver.tv">
+		<display-name>TVE 24h</display-name>
 	</channel>
-	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Dummy_3.iptvprivateserver.tv">
-		<title lang="en">Dummy 3</title>
-		<desc lang="en">Dummy 3</desc>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="TVE24h.iptvprivateserver.tv">
+		<title lang="en">TVE 24h</title>
+		<desc lang="en">TVE 24h</desc>
 		<category lang="en">Dummy</category>
 	</programme>
 
@@ -1267,11 +1286,8 @@
 		<title lang="en">Al Jazeera Documentary</title>
 		<desc lang="en">Arabic 1</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
+
 	<channel id="Arabic_2.iptvprivateserver.tv">
 		<display-name>Arabic 2</display-name>
 	</channel>
@@ -1279,11 +1295,8 @@
 		<title lang="en">Alforat TV</title>
 		<desc lang="en">Arabic 2</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
+
 	<channel id="Arabic_3.iptvprivateserver.tv">
 		<display-name>Arabic 3</display-name>
 	</channel>
@@ -1291,11 +1304,8 @@
 		<title lang="en">Al Dafrah HD</title>
 		<desc lang="en">Arabic 3</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
+
 	<channel id="Arabic_4.iptvprivateserver.tv">
 		<display-name>Arabic 4</display-name>
 	</channel>
@@ -1303,23 +1313,17 @@
 		<title lang="en">Al Jazeera Arabic</title>
 		<desc lang="en">Arabic 4</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
+
 	<channel id="Arabic_5.iptvprivateserver.tv">
 		<display-name>Arabic 5</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Arabic_5.iptvprivateserver.tv">
-		<title lang="en">ARY News (Pakistan)</title>
+		<title lang="en">JeemTV</title>
 		<desc lang="en">Arabic 5</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
+
 	<channel id="Arabic_6.iptvprivateserver.tv">
 		<display-name>Arabic 6</display-name>
 	</channel>
@@ -1327,11 +1331,8 @@
 		<title lang="en">BBC Arabic Television</title>
 		<desc lang="en">Arabic 6</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
+
 	<channel id="Arabic_7.iptvprivateserver.tv">
 		<display-name>Arabic 7</display-name>
 	</channel>
@@ -1339,11 +1340,8 @@
 		<title lang="en">Gem Bollywood (Persian)</title>
 		<desc lang="en">Arabic 7</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
+
 	<channel id="Arabic_8.iptvprivateserver.tv">
 		<display-name>Arabic 8</display-name>
 	</channel>
@@ -1351,11 +1349,8 @@
 		<title lang="en">Gem MIFA Music TV (Persian)</title>
 		<desc lang="en">Arabic 8</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
+
 	<channel id="Arabic_9.iptvprivateserver.tv">
 		<display-name>Arabic 9</display-name>
 	</channel>
@@ -1363,23 +1358,17 @@
 		<title lang="en">Al Baghdadia 2 </title>
 		<desc lang="en">Arabic 9</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
+
 	<channel id="Arabic_10.iptvprivateserver.tv">
 		<display-name>Arabic 10</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Arabic_10.iptvprivateserver.tv">
-		<title lang="en">Funoon TV</title>
+		<title lang="en">Al Arabiya</title>
 		<desc lang="en">Arabic 10</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
+
 	<channel id="Arabic_11.iptvprivateserver.tv">
 		<display-name>Arabic 11</display-name>
 	</channel>
@@ -1387,10 +1376,6 @@
 		<title lang="en">Arabic 11</title>
 		<desc lang="en">Arabic 11</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
 	<channel id="Arabic_12.iptvprivateserver.tv">
 		<display-name>Arabic 12</display-name>
@@ -1399,10 +1384,6 @@
 		<title lang="en">Arabic 12</title>
 		<desc lang="en">Arabic 12</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
 	<channel id="Arabic_13.iptvprivateserver.tv">
 		<display-name>Arabic 13</display-name>
@@ -1411,10 +1392,6 @@
 		<title lang="en">Arabic 13</title>
 		<desc lang="en">Arabic 13</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
 	<channel id="Arabic_14.iptvprivateserver.tv">
 		<display-name>Arabic 14</display-name>
@@ -1423,10 +1400,6 @@
 		<title lang="en">Arabic 14</title>
 		<desc lang="en">Arabic 14</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
 	<channel id="Arabic_15.iptvprivateserver.tv">
 		<display-name>Arabic 15</display-name>
@@ -1435,10 +1408,6 @@
 		<title lang="en">Arabic 15</title>
 		<desc lang="en">Arabic 15</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
 	<channel id="Arabic_16.iptvprivateserver.tv">
 		<display-name>Arabic 16</display-name>
@@ -1447,10 +1416,6 @@
 		<title lang="en">Arabic 16</title>
 		<desc lang="en">Arabic 16</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
 	<channel id="Arabic_17.iptvprivateserver.tv">
 		<display-name>Arabic 17</display-name>
@@ -1459,10 +1424,6 @@
 		<title lang="en">Arabic 17</title>
 		<desc lang="en">Arabic 17</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
 	<channel id="Arabic_18.iptvprivateserver.tv">
 		<display-name>Arabic 18</display-name>
@@ -1471,10 +1432,6 @@
 		<title lang="en">Arabic 18</title>
 		<desc lang="en">Arabic 18</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
 	<channel id="Arabic_19.iptvprivateserver.tv">
 		<display-name>Arabic 19</display-name>
@@ -1483,10 +1440,6 @@
 		<title lang="en">Arabic 19</title>
 		<desc lang="en">Arabic 19</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
 	<channel id="Arabic_20.iptvprivateserver.tv">
 		<display-name>Arabic 20</display-name>
@@ -1495,10 +1448,6 @@
 		<title lang="en">Arabic 20</title>
 		<desc lang="en">Arabic 20</desc>
 		<category lang="en">Arabic</category>
-		<previously-shown />
-		<rating system="VCHIP">
-			<value>TV-G</value>
-		</rating>
 	</programme>
 
 
@@ -3147,7 +3096,7 @@
 		<display-name>Colombia 3</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Colombia_3.iptvprivateserver.tv">
-		<title lang="en">Mi Gente</title>
+		<title lang="en">Caracol TV</title>
 		<desc lang="en">Colombia 3</desc>
 		<category lang="en">Colombia</category>
 	</programme>
@@ -4067,7 +4016,7 @@
 		<display-name>Ecuador 1</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ecuador_1.iptvprivateserver.tv">
-		<title lang="en">TC Television</title>
+		<title lang="en">Canela TV</title>
 		<desc lang="en">Ecuador 1</desc>
 		<category lang="en">Ecuador</category>
 	</programme>
@@ -4083,7 +4032,7 @@
 		<display-name>Ecuador 3</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Ecuador_3.iptvprivateserver.tv">
-		<title lang="en">Canela TV</title>
+		<title lang="en">UCSG Televisión</title>
 		<desc lang="en">Ecuador 3</desc>
 		<category lang="en">Ecuador</category>
 	</programme>
@@ -4746,7 +4695,7 @@
 		<display-name>Germany 2</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Germany_2.iptvprivateserver.tv">
-		<title lang="en">Filstalwelle</title>
+		<title lang="en">Servus TV HD Deutschland</title>
 		<desc lang="en">Germany 2</desc>
 		<category lang="en">Germany</category>
 	</programme>
@@ -6024,7 +5973,7 @@
 		<display-name>Israel 1</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Israel_1.iptvprivateserver.tv">
-		<title lang="en">Knesset Channel</title>
+		<title lang="en">Channel 10</title>
 		<desc lang="en">Israel 1</desc>
 		<category lang="en">Israel</category>
 	</programme>
@@ -6422,6 +6371,53 @@
 
 
 
+	<channel id="Japan_1.iptvprivateserver.tv">
+		<display-name>Japan 1</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Japan_1.iptvprivateserver.tv">
+		<title lang="en">Mainichi Broadcasting System (MBS)</title>
+		<desc lang="en">Japan 1</desc>
+		<category lang="en">Japan</category>
+	</programme>
+
+	<channel id="Japan_2.iptvprivateserver.tv">
+		<display-name>Japan 2</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Japan_2.iptvprivateserver.tv">
+		<title lang="en">Japan 2</title>
+		<desc lang="en">Japan 2</desc>
+		<category lang="en">Japan</category>
+	</programme>
+
+	<channel id="Japan_3.iptvprivateserver.tv">
+		<display-name>Japan 3</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Japan_3.iptvprivateserver.tv">
+		<title lang="en">Japan 3</title>
+		<desc lang="en">Japan 3</desc>
+		<category lang="en">Japan</category>
+	</programme>
+
+	<channel id="Japan_4.iptvprivateserver.tv">
+		<display-name>Japan 4</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Japan_4.iptvprivateserver.tv">
+		<title lang="en">Japan 4</title>
+		<desc lang="en">Japan 4</desc>
+		<category lang="en">Japan</category>
+	</programme>
+
+	<channel id="Japan_5.iptvprivateserver.tv">
+		<display-name>Japan 5</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Japan_5.iptvprivateserver.tv">
+		<title lang="en">Japan 5</title>
+		<desc lang="en">Japan 5</desc>
+		<category lang="en">Japan</category>
+	</programme>
+
+
+
 	<channel id="Korea_1.iptvprivateserver.tv">
 		<display-name>Korea 1</display-name>
 	</channel>
@@ -6430,11 +6426,12 @@
 		<desc lang="en">Korea 1</desc>
 		<category lang="en">Korea</category>
 	</programme>
+
 	<channel id="Korea_2.iptvprivateserver.tv">
 		<display-name>Korea 2</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Korea_2.iptvprivateserver.tv">
-		<title lang="en">Korea 2</title>
+		<title lang="en">TV Chosun</title>
 		<desc lang="en">Korea 2</desc>
 		<category lang="en">Korea</category>
 	</programme>
@@ -7108,6 +7105,7 @@
 		<desc lang="en">Peru 1</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_2.iptvprivateserver.tv">
 		<display-name>Peru 2</display-name>
 	</channel>
@@ -7116,22 +7114,25 @@
 		<desc lang="en">Peru 2</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_3.iptvprivateserver.tv">
 		<display-name>Peru 3</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Peru_3.iptvprivateserver.tv">
-		<title lang="en">PanAmericana TV</title>
+		<title lang="en">Willax TV</title>
 		<desc lang="en">Peru 3</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_4.iptvprivateserver.tv">
 		<display-name>Peru 4</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Peru_4.iptvprivateserver.tv">
-		<title lang="en">RBC Satelital</title>
+		<title lang="en">RBC Satelital TV</title>
 		<desc lang="en">Peru 4</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_5.iptvprivateserver.tv">
 		<display-name>Peru 5</display-name>
 	</channel>
@@ -7140,6 +7141,7 @@
 		<desc lang="en">Peru 5</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_6.iptvprivateserver.tv">
 		<display-name>Peru 6</display-name>
 	</channel>
@@ -7148,30 +7150,34 @@
 		<desc lang="en">Peru 6</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_7.iptvprivateserver.tv">
 		<display-name>Peru 7</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Peru_7.iptvprivateserver.tv">
-		<title lang="en">Peru 7</title>
+		<title lang="en">PanAmericana TV</title>
 		<desc lang="en">Peru 7</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_8.iptvprivateserver.tv">
 		<display-name>Peru 8</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Peru_8.iptvprivateserver.tv">
-		<title lang="en">Peru 8</title>
+		<title lang="en">Latina Network</title>
 		<desc lang="en">Peru 8</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_9.iptvprivateserver.tv">
 		<display-name>Peru 9</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Peru_9.iptvprivateserver.tv">
-		<title lang="en">Peru 9</title>
+		<title lang="en">Canal Movistar Deportes</title>
 		<desc lang="en">Peru 9</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_10.iptvprivateserver.tv">
 		<display-name>Peru 10</display-name>
 	</channel>
@@ -7180,6 +7186,7 @@
 		<desc lang="en">Peru 10</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_11.iptvprivateserver.tv">
 		<display-name>Peru 11</display-name>
 	</channel>
@@ -7188,6 +7195,7 @@
 		<desc lang="en">Peru 11</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_12.iptvprivateserver.tv">
 		<display-name>Peru 12</display-name>
 	</channel>
@@ -7196,6 +7204,7 @@
 		<desc lang="en">Peru 12</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_13.iptvprivateserver.tv">
 		<display-name>Peru 13</display-name>
 	</channel>
@@ -7204,6 +7213,7 @@
 		<desc lang="en">Peru 13</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_14.iptvprivateserver.tv">
 		<display-name>Peru 14</display-name>
 	</channel>
@@ -7212,6 +7222,7 @@
 		<desc lang="en">Peru 14</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_15.iptvprivateserver.tv">
 		<display-name>Peru 15</display-name>
 	</channel>
@@ -7220,6 +7231,7 @@
 		<desc lang="en">Peru 15</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_16.iptvprivateserver.tv">
 		<display-name>Peru 16</display-name>
 	</channel>
@@ -7228,6 +7240,7 @@
 		<desc lang="en">Peru 16</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_17.iptvprivateserver.tv">
 		<display-name>Peru 17</display-name>
 	</channel>
@@ -7236,6 +7249,7 @@
 		<desc lang="en">Peru 17</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_18.iptvprivateserver.tv">
 		<display-name>Peru 18</display-name>
 	</channel>
@@ -7244,6 +7258,7 @@
 		<desc lang="en">Peru 18</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_19.iptvprivateserver.tv">
 		<display-name>Peru 19</display-name>
 	</channel>
@@ -7252,6 +7267,7 @@
 		<desc lang="en">Peru 19</desc>
 		<category lang="en">Peru</category>
 	</programme>
+
 	<channel id="Peru_20.iptvprivateserver.tv">
 		<display-name>Peru 20</display-name>
 	</channel>
@@ -7276,7 +7292,7 @@
 		<display-name>Portugal 2</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Portugal_2.iptvprivateserver.tv">
-		<title lang="en">Benfica TV 1</title>
+		<title lang="en">RPT 2</title>
 		<desc lang="en">Portugal 2</desc>
 		<category lang="en">Portugal</category>
 	</programme>
@@ -7332,7 +7348,7 @@
 		<display-name>Portugal 9</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Portugal_9.iptvprivateserver.tv">
-		<title lang="en">Portugal 9</title>
+		<title lang="en">RTP Memória</title>
 		<desc lang="en">Portugal 9</desc>
 		<category lang="en">Portugal</category>
 	</programme>
@@ -7340,7 +7356,7 @@
 		<display-name>Portugal 10</display-name>
 	</channel>
 	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Portugal_10.iptvprivateserver.tv">
-		<title lang="en">Portugal 10</title>
+		<title lang="en">RTP Açores</title>
 		<desc lang="en">Portugal 10</desc>
 		<category lang="en">Portugal</category>
 	</programme>
@@ -8015,6 +8031,53 @@
 
 
 
+
+
+
+	<channel id="Uruguay_1.iptvprivateserver.tv">
+		<display-name>Uruguay 1</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Uruguay_1.iptvprivateserver.tv">
+		<title lang="en">Canal Once Punta del Este</title>
+		<desc lang="en">Uruguay 1</desc>
+		<category lang="en">Uruguay</category>
+	</programme>
+
+	<channel id="Uruguay_2.iptvprivateserver.tv">
+		<display-name>Uruguay 2</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Uruguay_2.iptvprivateserver.tv">
+		<title lang="en">Uruguay 2</title>
+		<desc lang="en">Uruguay 2</desc>
+		<category lang="en">Uruguay</category>
+	</programme>
+
+	<channel id="Uruguay_3.iptvprivateserver.tv">
+		<display-name>Uruguay 3</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Uruguay_3.iptvprivateserver.tv">
+		<title lang="en">Uruguay 3</title>
+		<desc lang="en">Uruguay 3</desc>
+		<category lang="en">Uruguay</category>
+	</programme>
+
+	<channel id="Uruguay_4.iptvprivateserver.tv">
+		<display-name>Uruguay 4</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Uruguay_4.iptvprivateserver.tv">
+		<title lang="en">Uruguay 4</title>
+		<desc lang="en">Uruguay 4</desc>
+		<category lang="en">Uruguay</category>
+	</programme>
+
+	<channel id="Uruguay_5.iptvprivateserver.tv">
+		<display-name>Uruguay 5</display-name>
+	</channel>
+	<programme start="20150513213000 +0000" stop="20160513220000 +0000" channel="Uruguay_5.iptvprivateserver.tv">
+		<title lang="en">Uruguay 5</title>
+		<desc lang="en">Uruguay 5</desc>
+		<category lang="en">Uruguay</category>
+	</programme>
 
 
 
