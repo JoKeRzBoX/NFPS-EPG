@@ -14,6 +14,7 @@ HISI:H2 USA
 TLC:TLC
 OXYGEN:Oxygen
 WE:WE TV
+BRAVO:Bravo East
 AMC:AMC East
 TCM:TCM US
 IFC:IFC East
@@ -32,12 +33,25 @@ NHLNET:NHL Network USA
 NFLNET:NFL Network
 NBATV:NBA TV
 CBSSN:CBS Sports Network
+DJCH:Disney Jr
+NICJR:Nick Jr
 NIK:Nickelodeon East
 DISN:Disney Channel East
+DISNP:Disney Channel West
+DXD:Disney XD
+BOOM:Boomerang USA
+BABY1:Baby First TV
+ABCF:ABC Family
+TNCK:Teen Nick
 DSC:Discovery Channel USA
+DKIDS:Discovery Family
+APL:Animal Planet
 NGCHD:National Geographic Channel
+NGWILD:Nat Geo Wild
 ID:Investigation Discovery
 SCIHD:Science Channel
+DEST:Destination America
+MILI:American Heroes Channel
 CNNHD:CNN US
 DBLOOM:Bloomberg TV US
 AJAM:Al Jazeera
@@ -54,6 +68,7 @@ WGNAMER:WGN America
 FXX:FXX East
 TRUTV:Tru TV East
 CIN:Crime + Investigation Network USA
+IONDTV:ION Television East
 HBO:HBO East
 HBO2:HBO 2 East
 HBOSIG:HBO Signature East
@@ -61,6 +76,7 @@ HBOP:HBO West
 HB2P:HBO 2 West
 HBOC:HBO Comedy East
 HBOZ:HBO Zone
+HBOLAT:HBO Latino
 MAX:Cinemax East
 MAXP:Cinemax West
 ACMAX:ActionMax East
@@ -74,6 +90,7 @@ SHOWB:Showtime Beyond East
 TMC:The Movie Channel East
 TMCX:The Movie Channel Xtra East
 ENCORE:Encore East
+ENCRA:Encore Action East
 STARZ:Starz East
 STARZP:Starz West
 STZE:Starz Edge East
@@ -85,10 +102,13 @@ PLDHD:Palladia
 HMM:Hallmark Movie Channel
 SONYHD:Sony Movie Channel USA
 GOLF:Golf Channel
+TENNIS:Tennis Channel
 OVATION:OVATION
 5MAX:5Max
+FSNFL:Fox Sports Florida
 UNI:Univision
 UNIMAS:UniMas
+UNVSO:NBC Universo
 PASNUS:Pasiones
 TELE:Telemundo
 
