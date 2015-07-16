@@ -1,43 +1,12 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
 
-# Folder config file
-Desktop.ini
+bin/hb13p.dat
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+bin/mc2xml.exe
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+gopvrstalkertest.bat
 
-# Windows shortcuts
-*.lnk
+bin/mc2xml.dat
 
-# =========================
-# Operating System Files
-# =========================
+bin/mc2xml.dat
 
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+bin/mc2xml.dat
